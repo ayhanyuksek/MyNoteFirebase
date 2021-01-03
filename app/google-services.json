@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628465952770",
+    "project_id": "mynotesfirebase-11f4d",
+    "storage_bucket": "mynotesfirebase-11f4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628465952770:android:d156d3a5e6f5fbc26e9f1b",
+        "android_client_info": {
+          "package_name": "tr.edu.mu.ceng.mad.mynotefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628465952770-k3j2hr3t9qsubb7q2vjmb84jceuufk7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVJTNKWU9NxMChjaoYwYPDZy-W-Ndhxyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628465952770-k3j2hr3t9qsubb7q2vjmb84jceuufk7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
